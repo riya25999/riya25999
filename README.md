@@ -1,27 +1,27 @@
 # Hi there, I'm Riya Khot! ✨
 
-## 📚 About Me
-I am a **3rd-year BE student** passionate about technology and coding. I enjoy learning new skills and building projects that make a difference.
+### 📚 About Me
+
+I am an engineering student,Curious about how data can reveal meaningful insights, I enjoy exploring **Data Science, Machine Learning, and Data Analytics** to solve real-world problems. I like working with data, learning new technologies, and building projects that turn ideas into practical solutions.
 
 - 🎓 Currently pursuing **Bachelor of Engineering**
-- 🔧 Exploring **secure e-commerce development** as a research interest
-- 🌍 Open to collaborating on innovative projects and exciting internships
-
----
+- 📊 Interested in **Data Science, Machine Learning, and Data Analysis**
+- 🧠 Learning data analysis techniques and developing practical projects
+- 🤝 Open to collaborating on **data-driven projects and research opportunities**
 
 ## 🔧 Skills
 
 ### Programming Languages:
-- 🔊 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- ☕ ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- 🔊 ![C++](https://img.shields.io/badge/-HTML-00599C?logo=c%2B%2B&logoColor=white)
+- ☕ ![Java](https://img.shields.io/badge/-C-007396?logo=java&logoColor=white)
 - 🤖 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- 🌐 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- 🌐 ![HTML](https://img.shields.io/badge/-SQL-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
-### Frameworks & Tools:
-- 🔄 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-- 🛠️ ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- 🌈 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- 🔧 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+### Frameworks & Librariess:
+- 🔄 ![Pandas](https://img.shields.io/badge/-Pandas-61DAFB?logo=pandas&logoColor=white)
+- 🛠️ ![NumPy](https://img.shields.io/badge/-NumPy-339933?logo=numPy&logoColor=white)
+- 🌈 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-7952B3?logo=matplotlib&logoColor=white)
+- 🔧 ![Seaborn](https://img.shields.io/badge/-Seaborn-F05032?logo=seaborn&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ### Databases:
 - 🏛 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -29,11 +29,12 @@ I am a **3rd-year BE student** passionate about technology and coding. I enjoy l
 
 ---
 
-## 📈 Goals
+### 📈 Goals
 
-- ✍️ Master full-stack development
-- 🌍 Contribute to open-source projects
-- ✨ Build a secure and scalable e-commerce platform
+- 📊 Strengthen my knowledge in **Data Science and Machine Learning**
+- 🧠 Build practical **data analysis and machine learning projects**
+- 🌍 Contribute to **open-source data science projects**
+- 🚀 Develop solutions that support **data-driven decision making**
 
 ---
 
