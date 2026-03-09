@@ -2,7 +2,7 @@
 
 ### 📚 About Me
 
-I am an engineering student,Curious about how data can reveal meaningful insights, I enjoy exploring **Data Science, Machine Learning, and Data Analytics** to solve real-world problems. I like working with data, learning new technologies, and building projects that turn ideas into practical solutions.
+I am Artificial Intelligence & Data Science Student,Curious about how data can reveal meaningful insights, I enjoy exploring **Data Science, Machine Learning, and Data Analytics** to solve real-world problems. I like working with data, learning new technologies, and building projects that turn ideas into practical solutions.
 
 - 🎓 Currently pursuing **Bachelor of Engineering**
 - 📊 Interested in **Data Science, Machine Learning, and Data Analysis**
