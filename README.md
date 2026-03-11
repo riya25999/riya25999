@@ -40,7 +40,7 @@ I am Artificial Intelligence & Data Science Student,Curious about how data can r
 
 ## 🛠️ Connect With Me
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [your.riyakhot89.com](mailto:your.riyakhot89.com)
 - 👨‍💼 **LinkedIn**: [linkedin.com/in/riya-khot](https://linkedin.com/in/riya-khot)
 - 🖌️ **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
