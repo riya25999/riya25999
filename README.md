@@ -40,8 +40,8 @@ I am Artificial Intelligence & Data Science Student,Curious about how data can r
 
 ## 🛠️ Connect With Me
 
-- 📧 **Email**: [your.riyakhot89.com](mailto:your.riyakhot89.com)
-- 👨‍💼 **LinkedIn**: [linkedin.com/in/riya-khot](https://linkedin.com/in/riya-khot)
+- 📧 **Email**: [riyakhot89@gmail.com](mailto:riyakhot89@gmail.com)
+- 👨‍💼 **LinkedIn**: [linkedin.com/in/riya-khot](https://www.linkedin.com/in/riya-khot-68a6b8338/))
 - 🖌️ **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
